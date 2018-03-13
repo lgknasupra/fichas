@@ -1,0 +1,6 @@
+base = float(input("Base: "))
+altura = float(input("Altura: "))
+area = float(base*altura)
+perimetro= float(base+base+altura+altura)
+print("Área: ", area)
+print("Perímetro: ", perimetro)
